@@ -1,0 +1,11 @@
+.\objects\wifi.o: SRC\WIFI.c
+.\objects\wifi.o: .\INC\WIFI.h
+.\objects\wifi.o: .\INC\STM32F401RBT6.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\wifi.o: .\INC\GPIO.h
+.\objects\wifi.o: .\INC\SYSTICKTIMER.h
+.\objects\wifi.o: .\INC\LCD.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\wifi.o: .\INC\ADC.h
+.\objects\wifi.o: .\INC\I2C.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
